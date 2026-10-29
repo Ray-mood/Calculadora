@@ -28,7 +28,7 @@ Aplicativo de calculadora desenvolvido em Kotlin com Jetpack Compose, atendendo 
 ## Evidências de Projeto
 Aqui estão as capturas de tela demonstrando o funcionamento do aplicativo:
 
-**Tela Inicial e Operação Normal:**
+**Tela Inicial e Operação Normal: (conta de adição 20 + 7 que deu 27)**
 ![Calculadora funcionando](images/calculadora-adicao.jpg)
 
 **Tratamento de Divisão por Zero:**
