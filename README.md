@@ -1,6 +1,6 @@
 # Calculadora Inteligente - Projeto 02
 
-Aplicativo de calculadora desenvolvido em Kotlin com Jetpack Compose, focado em lógica matemática e interface amigável, atendendo aos requisitos do projeto de nível iniciante.
+Aplicativo de calculadora desenvolvido em Kotlin com Jetpack Compose, atendendo aos requisitos do projeto de nível iniciante.
 
 ## Funcionalidades Implementadas
 - [x] Adição (+)
